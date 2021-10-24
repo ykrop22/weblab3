@@ -1,0 +1,39 @@
+.rect{
+	background-color: #4D00FF;  	/* задається колір заднього фону   */ 
+	width: 345px;			/* ширина  */ 
+	height: 1220px;			/*  висота */ 
+	position:relative;		
+	left:58px;			/* відступ зліва  */ 
+	top:-8px;			/* відстув зверху  */ 
+	border-radius:40px; 		/* заокруглення кутів */ 
+	}
+
+.ava{
+	top:51px;
+	position: absolute;
+	}
+
+.textbox1{
+	top:50px;
+	left:40px;
+	position:relative;
+	}
+
+.btmspace{
+	margin-bottom:70px;		/* відступ знизу */ 
+	}
+
+.linespacing{
+	line-height: 2; 		/* відстань між рядками  */ 
+	}
+
+.textbox2{
+	top:100px;		
+	left:438px;
+	position:relative;
+	text-align:justify;		/*  вирівнювання тексту по ширині */ 
+	width:750px
+	}
+.orangetxt{
+	color:#FF8000;        		 /* колір тексту  */ 
+	}
